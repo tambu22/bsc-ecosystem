@@ -27,6 +27,8 @@ In the below sections you can find a list of different layers of the BSC Stack.
 | Block Explorers | [BSCScan](https://bscscan.com/), [BitQuery](https://explorer.bitquery.io/bsc)
 | Validator Dashboards | [BSCScan](https://bscscan.com/validatorset/), [BSC-Staking](https://www.binance.org/en/staking)
 | Governance Dashboards | | UI for BSC proposal/vote
+| Price and variation Alerts | [BSC Token Tools](http://tokentools.finance/) | 
+
 
 ### :factory: Infrastructure
 | Components | Existing projects | Potentially interesting projects
